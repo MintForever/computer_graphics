@@ -1,0 +1,16 @@
+hw3behind.txt
+hw3bulb.txt
+hw3color.txt
+hw3expose1.txt
+hw3expose2.txt
+hw3inside.txt
+hw3neglight.txt
+hw3overlap.txt
+hw3plane.txt
+hw3shadow-basic.txt
+hw3shadow-bulb.txt
+hw3shadow-plane.txt
+hw3shadow-suns.txt
+hw3sphere.txt
+hw3sun.txt
+hw3suns.txt
